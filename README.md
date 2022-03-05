@@ -1,0 +1,1 @@
+App to practice React and CSS, using Wolt and my local pizzaria as inspiration
