@@ -1,6 +1,12 @@
 .form {
   text-align: right;
-  grid-column: 2;
+  grid-column: 1;
+  justify-items: end;
+  justify-content: right;
+}
+
+.form > * {
+  justify-content: right;
 }
 
 .form button {
@@ -9,6 +15,7 @@
   background-color: #8a2b06;
   border: 1px solid #8a2b06;
   color: white;
+  margin-top: .3rem;
   padding: 0.25rem 2rem;
   border-radius: 20px;
   font-weight: bold;

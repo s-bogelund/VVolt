@@ -1,20 +1,22 @@
 .meal {
   display: grid;
+  justify-content: space-between;
   grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr ;
   margin: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: .7rem;
   border-bottom: 1px solid #ccc;
+  grid-row: 2;
 }
 .container-left{
   grid-column: 1;
-  place-content: start; 
 }
-
 .container-right{
   grid-column: 2;
-  place-content: end;
 }
+
 .meal h3 {
+  display: block;
   margin: 0 0 0.25rem 0;
 }
 
@@ -24,6 +26,7 @@
 }
 
 .price {
+  display: block;
   margin-top: 0.25rem;
   font-weight: bold;
   color: #ad5502;
