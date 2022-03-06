@@ -4,7 +4,7 @@ import classes from "./MealsSummary.module.css";
 const MealsSummary = (props) => {
 	return (
 		<section className={classes.summary}>
-			<h2>Byens lækreste mad, bragt til dig!</h2>
+			<h2>Byens lækreste mad bragt lige til døren!</h2>
 			<p >
 				Vælg dine favoritmåltider fra vores brede udvalg og få bragt et lækkert
 				måltid til frokost eller aftensmad hjemme i din egen stue!
