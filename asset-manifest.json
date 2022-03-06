@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Wolt2/static/css/main.0ed32985.css",
-    "main.js": "/Wolt2/static/js/main.f7f4530f.js",
-    "static/media/meals.jpg": "/Wolt2/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/Wolt2/index.html",
-    "main.0ed32985.css.map": "/Wolt2/static/css/main.0ed32985.css.map",
-    "main.f7f4530f.js.map": "/Wolt2/static/js/main.f7f4530f.js.map"
+    "main.css": "/VVolt/static/css/main.0ed32985.css",
+    "main.js": "/VVolt/static/js/main.3c13908c.js",
+    "static/media/meals.jpg": "/VVolt/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/VVolt/index.html",
+    "main.0ed32985.css.map": "/VVolt/static/css/main.0ed32985.css.map",
+    "main.3c13908c.js.map": "/VVolt/static/js/main.3c13908c.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed32985.css",
-    "static/js/main.f7f4530f.js"
+    "static/js/main.3c13908c.js"
   ]
 }
